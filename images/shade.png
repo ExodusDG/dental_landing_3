@@ -1,0 +1,430 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+	<meta charset="UTF-8">
+		<title>Page not found &#8211; KlikTrace Network</title>
+<meta name="robots" content="noindex, nofollow">
+<link rel="dns-prefetch" href="//s.w.org">
+<link rel="alternate" type="application/rss+xml" title="KlikTrace Network &raquo; Feed" href="https://leads.kliktrace.com/feed/">
+<link rel="alternate" type="application/rss+xml" title="KlikTrace Network &raquo; Comments Feed" href="https://leads.kliktrace.com/comments/feed/">
+		<script>
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.1.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.1.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/leads.kliktrace.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.8.6"}};
+			!function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){var a=String.fromCharCode;p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,e),0,0);e=i.toDataURL();return p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,t),0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(!p||!p.fillText)return!1;switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])?!1:!s([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!s([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]);case"emoji":return!s([10084,65039,8205,55357,56613],[10084,65039,8203,55357,56613])}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(n=t.source||{}).concatemoji?c(n.concatemoji):n.wpemoji&&n.twemoji&&(c(n.twemoji),c(n.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style>
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel="stylesheet" id="chaty-front-css-css" href="../css/chaty-front.min.css" media="all">
+<style id="chaty-front-css-inline-css">
+                                #wechat-qr-code{right: 104px; left:auto;}
+                                .chaty-widget-is a{display: block; margin:0; padding:0;border-radius: 50%;-webkit-border-radius: 50%;-moz-border-radius: 50%; }
+                .chaty-widget-is svg{margin:0; padding:0;}
+                .chaty-main-widget { display: none; }
+                .chaty-in-desktop .chaty-main-widget.is-in-desktop { display: block; }
+                .chaty-in-mobile .chaty-main-widget.is-in-mobile { display: block; }
+                .chaty-widget.hide-widget { display: none !important; }
+                .chaty-widget, .chaty-widget .get, .chaty-widget .get a { width: 62px }
+                .facustom-icon { width: 54px; line-height: 54px; height: 54px; font-size: 27px; }
+                .chaty-widget-is a { width: 54px; height: 54px; }
+                                                .facustom-icon.chaty-btn-whatsapp {background-color: #49E670}
+                .chaty-whatsapp .color-element {fill: #49E670; background: #49E670}
+                                /*.chaty-widget-i-title.hide-it { display: none !important; }*/
+                body div.chaty-widget.hide-widget { display: none !important; }
+            .i-trigger .chaty-widget-i-title, .chaty-widget-i .chaty-widget-i-title {color:#333333 !important; background:#ffffff !important;}.i-trigger .chaty-widget-i-title p, .chaty-widget-i.chaty-main-widget .chaty-widget-i-title p {color:#333333 !important; }.i-trigger .chaty-widget-i:not(.no-tooltip):before, .chaty-widget-i.chaty-main-widget:before { border-color: transparent transparent transparent #ffffff !important;}.chaty-widget.chaty-widget-is-right .i-trigger .i-trigger-open.chaty-widget-i:before, .chaty-widget.chaty-widget-is-right .chaty-widget-i:before { border-color: transparent #ffffff transparent transparent !important;}.chaty-widget.chaty-widget-is-right .i-trigger .chaty-widget-i:before, .chaty-widget.chaty-widget-is-right .chaty-widget-i:before {border-color: transparent #ffffff transparent transparent !important; }
+</style>
+<link rel="stylesheet" id="astra-theme-css-css" href="../css/style.min.css" media="all">
+<style id="astra-theme-css-inline-css">
+html{font-size:93.75%;}a,.page-title{color:var(--ast-global-color-0);}a:hover,a:focus{color:var(--ast-global-color-1);}body,button,input,select,textarea,.ast-button,.ast-custom-button{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Oxygen-Sans,Ubuntu,Cantarell,Helvetica Neue,sans-serif;font-weight:inherit;font-size:15px;font-size:1rem;}blockquote{color:var(--ast-global-color-3);}.site-title{font-size:35px;font-size:2.3333333333333rem;display:block;}.ast-archive-description .ast-archive-title{font-size:40px;font-size:2.6666666666667rem;}.site-header .site-description{font-size:15px;font-size:1rem;display:none;}.entry-title{font-size:30px;font-size:2rem;}h1,.entry-content h1{font-size:40px;font-size:2.6666666666667rem;}h2,.entry-content h2{font-size:30px;font-size:2rem;}h3,.entry-content h3{font-size:25px;font-size:1.6666666666667rem;}h4,.entry-content h4{font-size:20px;font-size:1.3333333333333rem;}h5,.entry-content h5{font-size:18px;font-size:1.2rem;}h6,.entry-content h6{font-size:15px;font-size:1rem;}.ast-single-post .entry-title,.page-title{font-size:30px;font-size:2rem;}::selection{background-color:var(--ast-global-color-0);color:#ffffff;}body,h1,.entry-title a,.entry-content h1,h2,.entry-content h2,h3,.entry-content h3,h4,.entry-content h4,h5,.entry-content h5,h6,.entry-content h6{color:var(--ast-global-color-3);}.tagcloud a:hover,.tagcloud a:focus,.tagcloud a.current-item{color:#ffffff;border-color:var(--ast-global-color-0);background-color:var(--ast-global-color-0);}input:focus,input[type="text"]:focus,input[type="email"]:focus,input[type="url"]:focus,input[type="password"]:focus,input[type="reset"]:focus,input[type="search"]:focus,textarea:focus{border-color:var(--ast-global-color-0);}input[type="radio"]:checked,input[type=reset],input[type="checkbox"]:checked,input[type="checkbox"]:hover:checked,input[type="checkbox"]:focus:checked,input[type=range]::-webkit-slider-thumb{border-color:var(--ast-global-color-0);background-color:var(--ast-global-color-0);box-shadow:none;}.site-footer a:hover + .post-count,.site-footer a:focus + .post-count{background:var(--ast-global-color-0);border-color:var(--ast-global-color-0);}.single .nav-links .nav-previous,.single .nav-links .nav-next{color:var(--ast-global-color-0);}.entry-meta,.entry-meta *{line-height:1.45;color:var(--ast-global-color-0);}.entry-meta a:hover,.entry-meta a:hover *,.entry-meta a:focus,.entry-meta a:focus *,.page-links > .page-link,.page-links .page-link:hover,.post-navigation a:hover{color:var(--ast-global-color-1);}#cat option,.secondary .calendar_wrap thead a,.secondary .calendar_wrap thead a:visited{color:var(--ast-global-color-0);}.secondary .calendar_wrap #today,.ast-progress-val span{background:var(--ast-global-color-0);}.secondary a:hover + .post-count,.secondary a:focus + .post-count{background:var(--ast-global-color-0);border-color:var(--ast-global-color-0);}.calendar_wrap #today > a{color:#ffffff;}.page-links .page-link,.single .post-navigation a{color:var(--ast-global-color-0);}.widget-title{font-size:21px;font-size:1.4rem;color:var(--ast-global-color-3);}.main-header-menu .menu-link,.ast-header-custom-item a{color:var(--ast-global-color-3);}.main-header-menu .menu-item:hover > .menu-link,.main-header-menu .menu-item:hover > .ast-menu-toggle,.main-header-menu .ast-masthead-custom-menu-items a:hover,.main-header-menu .menu-item.focus > .menu-link,.main-header-menu .menu-item.focus > .ast-menu-toggle,.main-header-menu .current-menu-item > .menu-link,.main-header-menu .current-menu-ancestor > .menu-link,.main-header-menu .current-menu-item > .ast-menu-toggle,.main-header-menu .current-menu-ancestor > .ast-menu-toggle{color:var(--ast-global-color-0);}.header-main-layout-3 .ast-main-header-bar-alignment{margin-right:auto;}.header-main-layout-2 .site-header-section-left .ast-site-identity{text-align:left;}.ast-logo-title-inline .site-logo-img{padding-right:1em;}.ast-header-break-point .ast-mobile-menu-buttons-minimal.menu-toggle{background:transparent;color:var(--ast-global-color-0);}.ast-header-break-point .ast-mobile-menu-buttons-outline.menu-toggle{background:transparent;border:1px solid var(--ast-global-color-0);color:var(--ast-global-color-0);}.ast-header-break-point .ast-mobile-menu-buttons-fill.menu-toggle{background:var(--ast-global-color-0);}.ast-page-builder-template .hentry {margin: 0;}.ast-page-builder-template .site-content > .ast-container {max-width: 100%;padding: 0;}.ast-page-builder-template .site-content #primary {padding: 0;margin: 0;}.ast-page-builder-template .no-results {text-align: center;margin: 4em auto;}.ast-page-builder-template .ast-pagination {padding: 2em;}.ast-page-builder-template .entry-header.ast-no-title.ast-no-thumbnail {margin-top: 0;}.ast-page-builder-template .entry-header.ast-header-without-markup {margin-top: 0;margin-bottom: 0;}.ast-page-builder-template .entry-header.ast-no-title.ast-no-meta {margin-bottom: 0;}.ast-page-builder-template.single .post-navigation {padding-bottom: 2em;}.ast-page-builder-template.single-post .site-content > .ast-container {max-width: 100%;}.ast-page-builder-template .entry-header {margin-top: 4em;margin-left: auto;margin-right: auto;padding-left: 20px;padding-right: 20px;}.ast-page-builder-template .ast-archive-description {margin-top: 4em;margin-left: auto;margin-right: auto;padding-left: 20px;padding-right: 20px;}.single.ast-page-builder-template .entry-header {padding-left: 20px;padding-right: 20px;}.ast-page-builder-template.ast-no-sidebar .entry-content .alignwide {margin-left: 0;margin-right: 0;}.footer-adv .footer-adv-overlay{border-top-style:solid;border-top-color:#7a7a7a;}.wp-block-buttons.aligncenter{justify-content:center;}@media (min-width:1200px){.wp-block-group .has-background{padding:20px;}}@media (max-width:921px){.ast-separate-container .ast-article-post,.ast-separate-container .ast-article-single{padding:1.5em 2.14em;}.ast-separate-container #primary,.ast-separate-container #secondary{padding:1.5em 0;}#primary,#secondary{padding:1.5em 0;margin:0;}.ast-left-sidebar #content > .ast-container{display:flex;flex-direction:column-reverse;width:100%;}.ast-author-box img.avatar{margin:20px 0 0 0;}}@media (min-width:922px){.ast-separate-container.ast-right-sidebar #primary,.ast-separate-container.ast-left-sidebar #primary{border:0;}.search-no-results.ast-separate-container #primary{margin-bottom:4em;}}.ast-404-layout-1 .ast-404-text{font-size:200px;font-size:13.333333333333rem;}@media (min-width:922px){.error404.ast-separate-container #primary{margin-bottom:4em;}}@media (max-width:920px){.ast-404-layout-1 .ast-404-text{font-size:100px;font-size:6.6666666666667rem;}}.elementor-button-wrapper .elementor-button{border-style:solid;text-decoration:none;border-top-width:0;border-right-width:0;border-left-width:0;border-bottom-width:0;}body .elementor-button.elementor-size-sm,body .elementor-button.elementor-size-xs,body .elementor-button.elementor-size-md,body .elementor-button.elementor-size-lg,body .elementor-button.elementor-size-xl,body .elementor-button{border-radius:2px;padding-top:10px;padding-right:40px;padding-bottom:10px;padding-left:40px;}.wp-block-button .wp-block-button__link{color:#ffffff;}.elementor-button-wrapper .elementor-button{font-family:inherit;font-weight:inherit;line-height:1;}.wp-block-button .wp-block-button__link:hover,.wp-block-button .wp-block-button__link:focus{color:#ffffff;background-color:var(--ast-global-color-1);border-color:var(--ast-global-color-1);}.wp-block-button .wp-block-button__link{border-style:solid;border-top-width:0;border-right-width:0;border-left-width:0;border-bottom-width:0;border-color:var(--ast-global-color-0);background-color:var(--ast-global-color-0);color:#ffffff;font-family:inherit;font-weight:inherit;line-height:1;border-radius:2px;}.wp-block-buttons .wp-block-button .wp-block-button__link{padding-top:10px;padding-right:40px;padding-bottom:10px;padding-left:40px;}.menu-toggle,button,.ast-button,.ast-custom-button,.button,input#submit,input[type="button"],input[type="submit"],input[type="reset"]{border-style:solid;border-top-width:0;border-right-width:0;border-left-width:0;border-bottom-width:0;color:#ffffff;border-color:var(--ast-global-color-0);background-color:var(--ast-global-color-0);border-radius:2px;padding-top:10px;padding-right:40px;padding-bottom:10px;padding-left:40px;font-family:inherit;font-weight:inherit;line-height:1;}button:focus,.menu-toggle:hover,button:hover,.ast-button:hover,.ast-custom-button:hover .button:hover,.ast-custom-button:hover ,input[type=reset]:hover,input[type=reset]:focus,input#submit:hover,input#submit:focus,input[type="button"]:hover,input[type="button"]:focus,input[type="submit"]:hover,input[type="submit"]:focus{color:#ffffff;background-color:var(--ast-global-color-1);border-color:var(--ast-global-color-1);}@media (min-width:544px){.ast-container{max-width:100%;}}@media (max-width:544px){.ast-separate-container .ast-article-post,.ast-separate-container .ast-article-single,.ast-separate-container .comments-title,.ast-separate-container .ast-archive-description{padding:1.5em 1em;}.ast-separate-container #content .ast-container{padding-left:0.54em;padding-right:0.54em;}.ast-separate-container .ast-comment-list li.depth-1{padding:1.5em 1em;margin-bottom:1.5em;}.ast-separate-container .ast-comment-list .bypostauthor{padding:.5em;}.ast-search-menu-icon.ast-dropdown-active .search-field{width:170px;}.site-branding img,.site-header .site-logo-img .custom-logo-link img{max-width:100%;}}@media (max-width:921px){.ast-mobile-header-stack .main-header-bar .ast-search-menu-icon{display:inline-block;}.ast-header-break-point.ast-header-custom-item-outside .ast-mobile-header-stack .main-header-bar .ast-search-icon{margin:0;}.ast-comment-avatar-wrap img{max-width:2.5em;}.ast-separate-container .ast-comment-list li.depth-1{padding:1.5em 2.14em;}.ast-separate-container .comment-respond{padding:2em 2.14em;}.ast-comment-meta{padding:0 1.8888em 1.3333em;}}.ast-no-sidebar.ast-separate-container .entry-content .alignfull {margin-left: -6.67em;margin-right: -6.67em;width: auto;}@media (max-width: 1200px) {.ast-no-sidebar.ast-separate-container .entry-content .alignfull {margin-left: -2.4em;margin-right: -2.4em;}}@media (max-width: 768px) {.ast-no-sidebar.ast-separate-container .entry-content .alignfull {margin-left: -2.14em;margin-right: -2.14em;}}@media (max-width: 544px) {.ast-no-sidebar.ast-separate-container .entry-content .alignfull {margin-left: -1em;margin-right: -1em;}}.ast-no-sidebar.ast-separate-container .entry-content .alignwide {margin-left: -20px;margin-right: -20px;}.ast-no-sidebar.ast-separate-container .entry-content .wp-block-column .alignfull,.ast-no-sidebar.ast-separate-container .entry-content .wp-block-column .alignwide {margin-left: auto;margin-right: auto;width: 100%;}@media (max-width:921px){.site-title{display:block;}.ast-archive-description .ast-archive-title{font-size:40px;}.site-header .site-description{display:none;}.entry-title{font-size:30px;}h1,.entry-content h1{font-size:30px;}h2,.entry-content h2{font-size:25px;}h3,.entry-content h3{font-size:20px;}.ast-single-post .entry-title,.page-title{font-size:30px;}}@media (max-width:544px){.site-title{display:block;}.ast-archive-description .ast-archive-title{font-size:40px;}.site-header .site-description{display:none;}.entry-title{font-size:30px;}h1,.entry-content h1{font-size:30px;}h2,.entry-content h2{font-size:25px;}h3,.entry-content h3{font-size:20px;}.ast-single-post .entry-title,.page-title{font-size:30px;}}@media (max-width:921px){html{font-size:85.5%;}}@media (max-width:544px){html{font-size:85.5%;}}@media (min-width:922px){.ast-container{max-width:1240px;}}.ast-desktop .main-header-menu .astra-full-megamenu-wrapper .sub-menu,.ast-desktop .main-header-menu .astra-megamenu .sub-menu{box-shadow:none;}.ast-desktop .main-header-menu.ast-menu-shadow .astra-full-megamenu-wrapper{box-shadow:0 4px 10px -2px rgba(0,0,0,0.1);}.ast-desktop .main-header-menu > .menu-item .astra-full-megamenu-wrapper:before{position:absolute;top:0;right:0;width:100%;transform:translateY(-100%);}@font-face {font-family: "Astra";src: url(../fonts/astra.woff) format("woff"),url(../fonts/astra.ttf) format("truetype"),url(../fonts/astra.svg#astra) format("svg");font-weight: normal;font-style: normal;font-display: fallback;}@media (max-width:921px) {.main-header-bar .main-header-bar-navigation{display:none;}}.ast-desktop .main-header-menu.submenu-with-border .sub-menu,.ast-desktop .main-header-menu.submenu-with-border .astra-full-megamenu-wrapper{border-color:var(--ast-global-color-0);}.ast-desktop .main-header-menu.submenu-with-border .sub-menu{border-top-width:2px;border-right-width:0px;border-left-width:4px;border-bottom-width:0px;border-style:solid;}.ast-desktop .main-header-menu.submenu-with-border .sub-menu .sub-menu{top:-2px;}.ast-desktop .main-header-menu.submenu-with-border .sub-menu .menu-link,.ast-desktop .main-header-menu.submenu-with-border .children .menu-link{border-bottom-width:0px;border-style:solid;border-color:#eaeaea;}@media (min-width:922px){.main-header-menu .sub-menu .menu-item.ast-left-align-sub-menu:hover > .sub-menu,.main-header-menu .sub-menu .menu-item.ast-left-align-sub-menu.focus > .sub-menu{margin-left:-4px;}}.ast-small-footer{border-top-style:solid;border-top-width:1px;border-top-color:#7a7a7a;}.ast-small-footer-wrap{text-align:center;}.ast-header-break-point.ast-header-custom-item-inside .main-header-bar .main-header-bar-navigation .ast-search-icon {display: none;}.ast-header-break-point.ast-header-custom-item-inside .main-header-bar .ast-search-menu-icon .search-form {padding: 0;display: block;overflow: hidden;}.ast-header-break-point .ast-header-custom-item .widget:last-child {margin-bottom: 1em;}.ast-header-custom-item .widget {margin: 0.5em;display: inline-block;vertical-align: middle;}.ast-header-custom-item .widget p {margin-bottom: 0;}.ast-header-custom-item .widget li {width: auto;}.ast-header-custom-item-inside .button-custom-menu-item .menu-link {display: none;}.ast-header-custom-item-inside.ast-header-break-point .button-custom-menu-item .ast-custom-button-link {display: none;}.ast-header-custom-item-inside.ast-header-break-point .button-custom-menu-item .menu-link {display: block;}.ast-header-break-point.ast-header-custom-item-outside .main-header-bar .ast-search-icon {margin-right: 1em;}.ast-header-break-point.ast-header-custom-item-inside .main-header-bar .ast-search-menu-icon .search-field,.ast-header-break-point.ast-header-custom-item-inside .main-header-bar .ast-search-menu-icon.ast-inline-search .search-field {width: 100%;padding-right: 5.5em;}.ast-header-break-point.ast-header-custom-item-inside .main-header-bar .ast-search-menu-icon .search-submit {display: block;position: absolute;height: 100%;top: 0;right: 0;padding: 0 1em;border-radius: 0;}.ast-header-break-point .ast-header-custom-item .ast-masthead-custom-menu-items {padding-left: 20px;padding-right: 20px;margin-bottom: 1em;margin-top: 1em;}.ast-header-custom-item-inside.ast-header-break-point .button-custom-menu-item {padding-left: 0;padding-right: 0;margin-top: 0;margin-bottom: 0;}.astra-icon-down_arrow::after {content: "\e900";font-family: Astra;}.astra-icon-close::after {content: "\e5cd";font-family: Astra;}.astra-icon-drag_handle::after {content: "\e25d";font-family: Astra;}.astra-icon-format_align_justify::after {content: "\e235";font-family: Astra;}.astra-icon-menu::after {content: "\e5d2";font-family: Astra;}.astra-icon-reorder::after {content: "\e8fe";font-family: Astra;}.astra-icon-search::after {content: "\e8b6";font-family: Astra;}.astra-icon-zoom_in::after {content: "\e56b";font-family: Astra;}.astra-icon-check-circle::after {content: "\e901";font-family: Astra;}.astra-icon-shopping-cart::after {content: "\f07a";font-family: Astra;}.astra-icon-shopping-bag::after {content: "\f290";font-family: Astra;}.astra-icon-shopping-basket::after {content: "\f291";font-family: Astra;}.astra-icon-circle-o::after {content: "\e903";font-family: Astra;}.astra-icon-certificate::after {content: "\e902";font-family: Astra;}blockquote {padding: 1.2em;}:root .has-ast-global-color-0-color{color:var(--ast-global-color-0);}:root .has-ast-global-color-0-background-color{background-color:var(--ast-global-color-0);}:root .wp-block-button .has-ast-global-color-0-color{color:var(--ast-global-color-0);}:root .wp-block-button .has-ast-global-color-0-background-color{background-color:var(--ast-global-color-0);}:root .has-ast-global-color-1-color{color:var(--ast-global-color-1);}:root .has-ast-global-color-1-background-color{background-color:var(--ast-global-color-1);}:root .wp-block-button .has-ast-global-color-1-color{color:var(--ast-global-color-1);}:root .wp-block-button .has-ast-global-color-1-background-color{background-color:var(--ast-global-color-1);}:root .has-ast-global-color-2-color{color:var(--ast-global-color-2);}:root .has-ast-global-color-2-background-color{background-color:var(--ast-global-color-2);}:root .wp-block-button .has-ast-global-color-2-color{color:var(--ast-global-color-2);}:root .wp-block-button .has-ast-global-color-2-background-color{background-color:var(--ast-global-color-2);}:root .has-ast-global-color-3-color{color:var(--ast-global-color-3);}:root .has-ast-global-color-3-background-color{background-color:var(--ast-global-color-3);}:root .wp-block-button .has-ast-global-color-3-color{color:var(--ast-global-color-3);}:root .wp-block-button .has-ast-global-color-3-background-color{background-color:var(--ast-global-color-3);}:root .has-ast-global-color-4-color{color:var(--ast-global-color-4);}:root .has-ast-global-color-4-background-color{background-color:var(--ast-global-color-4);}:root .wp-block-button .has-ast-global-color-4-color{color:var(--ast-global-color-4);}:root .wp-block-button .has-ast-global-color-4-background-color{background-color:var(--ast-global-color-4);}:root .has-ast-global-color-5-color{color:var(--ast-global-color-5);}:root .has-ast-global-color-5-background-color{background-color:var(--ast-global-color-5);}:root .wp-block-button .has-ast-global-color-5-color{color:var(--ast-global-color-5);}:root .wp-block-button .has-ast-global-color-5-background-color{background-color:var(--ast-global-color-5);}:root .has-ast-global-color-6-color{color:var(--ast-global-color-6);}:root .has-ast-global-color-6-background-color{background-color:var(--ast-global-color-6);}:root .wp-block-button .has-ast-global-color-6-color{color:var(--ast-global-color-6);}:root .wp-block-button .has-ast-global-color-6-background-color{background-color:var(--ast-global-color-6);}:root .has-ast-global-color-7-color{color:var(--ast-global-color-7);}:root .has-ast-global-color-7-background-color{background-color:var(--ast-global-color-7);}:root .wp-block-button .has-ast-global-color-7-color{color:var(--ast-global-color-7);}:root .wp-block-button .has-ast-global-color-7-background-color{background-color:var(--ast-global-color-7);}:root .has-ast-global-color-8-color{color:var(--ast-global-color-8);}:root .has-ast-global-color-8-background-color{background-color:var(--ast-global-color-8);}:root .wp-block-button .has-ast-global-color-8-color{color:var(--ast-global-color-8);}:root .wp-block-button .has-ast-global-color-8-background-color{background-color:var(--ast-global-color-8);}:root{--ast-global-color-0:#0170B9;--ast-global-color-1:#3a3a3a;--ast-global-color-2:#3a3a3a;--ast-global-color-3:#4B4F58;--ast-global-color-4:#F5F5F5;--ast-global-color-5:#FFFFFF;--ast-global-color-6:#F2F5F7;--ast-global-color-7:#424242;--ast-global-color-8:#000000;}.ast-breadcrumbs .trail-browse,.ast-breadcrumbs .trail-items,.ast-breadcrumbs .trail-items li{display:inline-block;margin:0;padding:0;border:none;background:inherit;text-indent:0;}.ast-breadcrumbs .trail-browse{font-size:inherit;font-style:inherit;font-weight:inherit;color:inherit;}.ast-breadcrumbs .trail-items{list-style:none;}.trail-items li::after{padding:0 0.3em;content:"\00bb";}.trail-items li:last-of-type::after{display:none;}h1,.entry-content h1,h2,.entry-content h2,h3,.entry-content h3,h4,.entry-content h4,h5,.entry-content h5,h6,.entry-content h6{color:var(--ast-global-color-2);}.elementor-template-full-width .ast-container{display:block;}@media (max-width:544px){.elementor-element .elementor-wc-products .woocommerce[class*="columns-"] ul.products li.product{width:auto;margin:0;}.elementor-element .woocommerce .woocommerce-result-count{float:none;}}.ast-header-break-point .main-header-bar{border-bottom-width:1px;}@media (min-width:922px){.main-header-bar{border-bottom-width:1px;}}.main-header-menu .menu-item, #astra-footer-menu .menu-item, .main-header-bar .ast-masthead-custom-menu-items{-js-display:flex;display:flex;-webkit-box-pack:center;-webkit-justify-content:center;-moz-box-pack:center;-ms-flex-pack:center;justify-content:center;-webkit-box-orient:vertical;-webkit-box-direction:normal;-webkit-flex-direction:column;-moz-box-orient:vertical;-moz-box-direction:normal;-ms-flex-direction:column;flex-direction:column;}.main-header-menu > .menu-item > .menu-link, #astra-footer-menu > .menu-item > .menu-link{height:100%;-webkit-box-align:center;-webkit-align-items:center;-moz-box-align:center;-ms-flex-align:center;align-items:center;-js-display:flex;display:flex;}.ast-primary-menu-disabled .main-header-bar .ast-masthead-custom-menu-items{flex:unset;}.main-header-menu .sub-menu .menu-item.menu-item-has-children > .menu-link:after{position:absolute;right:1em;top:50%;transform:translate(0,-50%) rotate(270deg);}.ast-header-break-point .main-header-bar .main-header-bar-navigation .page_item_has_children > .ast-menu-toggle::before, .ast-header-break-point .main-header-bar .main-header-bar-navigation .menu-item-has-children > .ast-menu-toggle::before, .ast-mobile-popup-drawer .main-header-bar-navigation .menu-item-has-children>.ast-menu-toggle::before, .ast-header-break-point .ast-mobile-header-wrap .main-header-bar-navigation .menu-item-has-children > .ast-menu-toggle::before{font-weight:bold;content:"\e900";font-family:Astra;text-decoration:inherit;display:inline-block;}.ast-header-break-point .main-navigation ul.sub-menu .menu-item .menu-link:before{content:"\e900";font-family:Astra;font-size:.65em;text-decoration:inherit;display:inline-block;transform:translate(0, -2px) rotateZ(270deg);margin-right:5px;}.widget_search .search-form:after{font-family:Astra;font-size:1.2em;font-weight:normal;content:"\e8b6";position:absolute;top:50%;right:15px;transform:translate(0, -50%);}.astra-search-icon::before{content:"\e8b6";font-family:Astra;font-style:normal;font-weight:normal;text-decoration:inherit;text-align:center;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale;z-index:3;}.main-header-bar .main-header-bar-navigation .page_item_has_children > a:after, .main-header-bar .main-header-bar-navigation .menu-item-has-children > a:after, .site-header-focus-item .main-header-bar-navigation .menu-item-has-children > .menu-link:after{content:"\e900";display:inline-block;font-family:Astra;font-size:.6rem;font-weight:bold;text-rendering:auto;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale;margin-left:10px;line-height:normal;}.ast-mobile-popup-drawer .main-header-bar-navigation .ast-submenu-expanded>.ast-menu-toggle::before{transform:rotateX(180deg);}.ast-header-break-point .main-header-bar-navigation .menu-item-has-children > .menu-link:after{display:none;}:root{--e-global-color-astglobalcolor0:#0170B9;--e-global-color-astglobalcolor1:#3a3a3a;--e-global-color-astglobalcolor2:#3a3a3a;--e-global-color-astglobalcolor3:#4B4F58;--e-global-color-astglobalcolor4:#F5F5F5;--e-global-color-astglobalcolor5:#FFFFFF;--e-global-color-astglobalcolor6:#F2F5F7;--e-global-color-astglobalcolor7:#424242;--e-global-color-astglobalcolor8:#000000;}.comment-reply-title{font-size:24px;font-size:1.6rem;}.ast-comment-meta{line-height:1.666666667;color:var(--ast-global-color-0);font-size:12px;font-size:0.8rem;}.ast-comment-list #cancel-comment-reply-link{font-size:15px;font-size:1rem;}.comments-count-wrapper {padding: 2em 0;}.comments-count-wrapper .comments-title {font-weight: normal;word-wrap: break-word;}.ast-comment-list {margin: 0;word-wrap: break-word;padding-bottom: 0.5em;list-style: none;}.ast-comment-list li {list-style: none;}.ast-comment-list li.depth-1 .ast-comment,.ast-comment-list li.depth-2 .ast-comment {border-bottom: 1px solid #eeeeee;}.ast-comment-list .comment-respond {padding: 1em 0;border-bottom: 1px solid #eeeeee;}.ast-comment-list .comment-respond .comment-reply-title {margin-top: 0;padding-top: 0;}.ast-comment-list .comment-respond p {margin-bottom: .5em;}.ast-comment-list .ast-comment-edit-reply-wrap {-js-display: flex;display: flex;justify-content: flex-end;}.ast-comment-list .ast-edit-link {flex: 1;}.ast-comment-list .comment-awaiting-moderation {margin-bottom: 0;}.ast-comment {padding: 1em 0;}.ast-comment-avatar-wrap img {border-radius: 50%;}.ast-comment-content {clear: both;}.ast-comment-cite-wrap {text-align: left;}.ast-comment-cite-wrap cite {font-style: normal;}.comment-reply-title {padding-top: 1em;font-weight: normal;line-height: 1.65;}.ast-comment-meta {margin-bottom: 0.5em;}.comments-area {border-top: 1px solid #eeeeee;margin-top: 2em;}.comments-area .comment-form-comment {width: 100%;border: none;margin: 0;padding: 0;}.comments-area .comment-notes,.comments-area .comment-textarea,.comments-area .form-allowed-tags {margin-bottom: 1.5em;}.comments-area .form-submit {margin-bottom: 0;}.comments-area textarea#comment,.comments-area .ast-comment-formwrap input[type="text"] {width: 100%;border-radius: 0;vertical-align: middle;margin-bottom: 10px;}.comments-area .no-comments {margin-top: 0.5em;margin-bottom: 0.5em;}.comments-area p.logged-in-as {margin-bottom: 1em;}.ast-separate-container .comments-count-wrapper {background-color: #fff;padding: 2em 6.67em 0;}@media (max-width: 1200px) {.ast-separate-container .comments-count-wrapper {padding: 2em 3.34em;}}.ast-separate-container .comments-area {border-top: 0;}.ast-separate-container .ast-comment-list {padding-bottom: 0;}.ast-separate-container .ast-comment-list li {background-color: #fff;}.ast-separate-container .ast-comment-list li.depth-1 {padding: 4em 6.67em;margin-bottom: 2em;}@media (max-width: 1200px) {.ast-separate-container .ast-comment-list li.depth-1 {padding: 3em 3.34em;}}.ast-separate-container .ast-comment-list li.depth-1 .children li {padding-bottom: 0;padding-top: 0;margin-bottom: 0;}.ast-separate-container .ast-comment-list li.depth-1 .ast-comment,.ast-separate-container .ast-comment-list li.depth-2 .ast-comment {border-bottom: 0;}.ast-separate-container .ast-comment-list .comment-respond {padding-top: 0;padding-bottom: 1em;background-color: transparent;}.ast-separate-container .ast-comment-list .pingback p {margin-bottom: 0;}.ast-separate-container .ast-comment-list .bypostauthor {padding: 2em;margin-bottom: 1em;}.ast-separate-container .ast-comment-list .bypostauthor li {background: transparent;margin-bottom: 0;padding: 0 0 0 2em;}.ast-separate-container .comment-respond {background-color: #fff;padding: 4em 6.67em;border-bottom: 0;} @media (max-width: 1200px) { .ast-separate-container .comment-respond { padding: 3em 2.34em; } }.ast-separate-container .comment-reply-title {padding-top: 0;}.comment-content a {word-wrap: break-word;}.comment-form-legend {margin-bottom: unset;padding: 0 0.5em;}.ast-comment-list .children {margin-left: 2em;}@media (max-width: 992px) {.ast-comment-list .children {margin-left: 1em;}}.ast-comment-list #cancel-comment-reply-link {white-space: nowrap;font-size: 15px;font-size: 1rem;margin-left: 1em;}.ast-comment-avatar-wrap {float: left;clear: right;margin-right: 1.33333em;}.ast-comment-meta-wrap {float: left;clear: right;padding: 0 0 1.33333em;}.ast-comment-time .timendate,.ast-comment-time .reply {margin-right: 0.5em;}.comments-area #wp-comment-cookies-consent {margin-right: 10px;}.ast-page-builder-template .comments-area {padding-left: 20px;padding-right: 20px;margin-top: 0;margin-bottom: 2em;}.ast-separate-container .ast-comment-list .bypostauthor .bypostauthor {background: transparent;margin-bottom: 0;padding-right: 0;padding-bottom: 0;padding-top: 0;}@media (min-width:922px){.ast-separate-container .ast-comment-list li .comment-respond{padding-left:2.66666em;padding-right:2.66666em;}}@media (max-width:544px){.ast-separate-container .comments-count-wrapper{padding:1.5em 1em;}.ast-separate-container .ast-comment-list li.depth-1{padding:1.5em 1em;margin-bottom:1.5em;}.ast-separate-container .ast-comment-list .bypostauthor{padding:.5em;}.ast-separate-container .comment-respond{padding:1.5em 1em;}.ast-separate-container .ast-comment-list .bypostauthor li{padding:0 0 0 .5em;}.ast-comment-list .children{margin-left:0.66666em;}}@media (max-width:921px){.ast-comment-avatar-wrap img{max-width:2.5em;}.comments-area{margin-top:1.5em;}.ast-separate-container .comments-count-wrapper{padding:2em 2.14em;}.ast-separate-container .ast-comment-list li.depth-1{padding:1.5em 2.14em;}.ast-separate-container .comment-respond{padding:2em 2.14em;}}@media (max-width:921px){.ast-comment-avatar-wrap{margin-right:0.5em;}}
+</style>
+<link rel="stylesheet" id="wp-block-library-css" href="../css/style.min_1.css" media="all">
+<link rel="stylesheet" id="cookie-law-info-css" href="../css/cookie-law-info-public.css" media="all">
+<link rel="stylesheet" id="cookie-law-info-gdpr-css" href="../css/cookie-law-info-gdpr.css" media="all">
+<link rel="stylesheet" id="mega-theme-icon-css" href="../css/style.css" media="all">
+<link rel="stylesheet" id="astra-addon-css-css" href="../css/astra-addon-600ff6199757e6-22313657.css" media="all">
+<link rel="stylesheet" id="elementor-icons-css" href="../css/elementor-icons.min.css" media="all">
+<link rel="stylesheet" id="elementor-frontend-legacy-css" href="../css/frontend-legacy.min.css" media="all">
+<link rel="stylesheet" id="elementor-frontend-css" href="../css/frontend.min.css" media="all">
+<link rel="stylesheet" id="elementor-post-189-css" href="../css/post-189.css" media="all">
+<link rel="stylesheet" id="megatheme-font-css" href="../css/fonts.css" media="all">
+<link rel="stylesheet" id="elementor-pro-css" href="../css/frontend.min_1.css" media="all">
+<link rel="stylesheet" id="uael-frontend-css" href="../css/uael-frontend.min.css" media="all">
+<link rel="stylesheet" id="elementor-global-css" href="../css/global.css" media="all">
+<link rel="stylesheet" id="elementor-post-1091-css" href="../css/post-1091.css" media="all">
+<link rel="stylesheet" id="google-fonts-1-css" href="https://fonts.googleapis.com/css?family=Roboto+Slab%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CRoboto%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CMontserrat%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&amp;display=auto&amp;ver=5.8.6" media="all">
+<script id="jquery-core-js-extra">
+var uael_script = {"ajax_url":"https:\/\/leads.kliktrace.com\/wp-admin\/admin-ajax.php"};
+var uael_particles_script = {"uael_particles_url":"https:\/\/leads.kliktrace.com\/wp-content\/plugins\/ultimate-elementor\/assets\/min-js\/uael-particles.min.js","particles_url":"https:\/\/leads.kliktrace.com\/wp-content\/plugins\/ultimate-elementor\/assets\/lib\/particles\/particles.min.js"};
+var uael = {"ajax_url":"https:\/\/leads.kliktrace.com\/wp-admin\/admin-ajax.php"};
+</script>
+<script src="../js/jquery.min.js" id="jquery-core-js"></script>
+<script src="../js/jquery-migrate.min.js" id="jquery-migrate-js"></script>
+<script id="jquery-js-after">
+window.scope_array = [];
+								window.backend = 0;
+								jQuery.cachedScript = function( url, options ) {
+									// Allow user to set any option except for dataType, cache, and url.
+									options = jQuery.extend( options || {}, {
+										dataType: "script",
+										cache: true,
+										url: url
+									});
+									// Return the jqXHR object so we can chain callbacks.
+									return jQuery.ajax( options );
+								};
+							    jQuery( window ).on( "elementor/frontend/init", function() {
+									elementorFrontend.hooks.addAction( "frontend/element_ready/global", function( $scope, $ ){
+										if ( "undefined" == typeof $scope ) {
+												return;
+										}
+										if ( $scope.hasClass( "uael-particle-yes" ) ) {
+											window.scope_array.push( $scope );
+											$scope.find(".uael-particle-wrapper").addClass("js-is-enabled");
+										}else{
+											return;
+										}
+										if(elementorFrontend.isEditMode() && $scope.find(".uael-particle-wrapper").hasClass("js-is-enabled") && window.backend == 0 ){		
+											var uael_url = uael_particles_script.uael_particles_url;
+											
+											jQuery.cachedScript( uael_url );
+											window.backend = 1;
+										}else if(elementorFrontend.isEditMode()){
+											var uael_url = uael_particles_script.uael_particles_url;
+											jQuery.cachedScript( uael_url ).done(function(){
+												var flag = true;
+											});
+										}
+									});
+								});
+								jQuery(document).ready(function(){
+									if ( jQuery.find( ".uael-particle-yes" ).length < 1 ) {
+										return;
+									}
+									var uael_url = uael_particles_script.uael_particles_url;
+									jQuery.cachedScript = function( url, options ) {
+										// Allow user to set any option except for dataType, cache, and url.
+										options = jQuery.extend( options || {}, {
+											dataType: "script",
+											cache: true,
+											url: url
+										});
+										// Return the jqXHR object so we can chain callbacks.
+										return jQuery.ajax( options );
+									};
+									jQuery.cachedScript( uael_url );
+								});	
+</script>
+<script id="chaty-front-end-js-extra">
+var chaty_settings = {"object_settings":{"isPRO":0,"pending_messages":"on","cht_cta_bg_color":"#ffffff","cht_cta_text_color":"#333333","click_setting":"all_time","number_of_messages":"1","number_color":"#ffffff","number_bg_color":"#dd0000","position":"right","social":[{"val":"447588504922","default_icon":"<svg class=\"ico_d \" width=\"39\" height=\"39\" viewBox=\"0 0 39 39\" fill=\"none\" xmlns=\"http:\/\/www.w3.org\/2000\/svg\" style=\"transform: rotate(0deg);\"><circle class=\"color-element\" cx=\"19.4395\" cy=\"19.4395\" r=\"19.4395\" fill=\"#49E670\"\/><path d=\"M12.9821 10.1115C12.7029 10.7767 11.5862 11.442 10.7486 11.575C10.1902 11.7081 9.35269 11.8411 6.84003 10.7767C3.48981 9.44628 1.39593 6.25317 1.25634 6.12012C1.11674 5.85403 2.13001e-06 4.39053 2.13001e-06 2.92702C2.13001e-06 1.46351 0.83755 0.665231 1.11673 0.399139C1.39592 0.133046 1.8147 1.01506e-06 2.23348 1.01506e-06C2.37307 1.01506e-06 2.51267 1.01506e-06 2.65226 1.01506e-06C2.93144 1.01506e-06 3.21063 -2.02219e-06 3.35022 0.532183C3.62941 1.19741 4.32736 2.66092 4.32736 2.79397C4.46696 2.92702 4.46696 3.19311 4.32736 3.32616C4.18777 3.59225 4.18777 3.59224 3.90858 3.85834C3.76899 3.99138 3.6294 4.12443 3.48981 4.39052C3.35022 4.52357 3.21063 4.78966 3.35022 5.05576C3.48981 5.32185 4.18777 6.38622 5.16491 7.18449C6.42125 8.24886 7.39839 8.51496 7.81717 8.78105C8.09636 8.91409 8.37554 8.9141 8.65472 8.648C8.93391 8.38191 9.21309 7.98277 9.49228 7.58363C9.77146 7.31754 10.0507 7.1845 10.3298 7.31754C10.609 7.45059 12.2841 8.11582 12.5633 8.38191C12.8425 8.51496 13.1217 8.648 13.1217 8.78105C13.1217 8.78105 13.1217 9.44628 12.9821 10.1115Z\" transform=\"translate(12.9597 12.9597)\" fill=\"#FAFAFA\"\/><path d=\"M0.196998 23.295L0.131434 23.4862L0.323216 23.4223L5.52771 21.6875C7.4273 22.8471 9.47325 23.4274 11.6637 23.4274C18.134 23.4274 23.4274 18.134 23.4274 11.6637C23.4274 5.19344 18.134 -0.1 11.6637 -0.1C5.19344 -0.1 -0.1 5.19344 -0.1 11.6637C-0.1 13.9996 0.624492 16.3352 1.93021 18.2398L0.196998 23.295ZM5.87658 19.8847L5.84025 19.8665L5.80154 19.8788L2.78138 20.8398L3.73978 17.9646L3.75932 17.906L3.71562 17.8623L3.43104 17.5777C2.27704 15.8437 1.55796 13.8245 1.55796 11.6637C1.55796 6.03288 6.03288 1.55796 11.6637 1.55796C17.2945 1.55796 21.7695 6.03288 21.7695 11.6637C21.7695 17.2945 17.2945 21.7695 11.6637 21.7695C9.64222 21.7695 7.76778 21.1921 6.18227 20.039L6.17557 20.0342L6.16817 20.0305L5.87658 19.8847Z\" transform=\"translate(7.7758 7.77582)\" fill=\"white\" stroke=\"white\" stroke-width=\"0.2\"\/><\/svg>","bg_color":"#49E670","rbg_color":"73,230,112","title":"Free Consultation","img_url":"","social_channel":"whatsapp","channel_type":"whatsapp","href_url":"javascript:;","desktop_target":"_blank","mobile_target":"","qr_code_image":"","channel":"Whatsapp","is_mobile":1,"is_desktop":1,"mobile_url":"javascript:;","on_click":"","has_font":0,"popup_html":"<div class='chaty-whatsapp-popup'><span class='default-value' style='display:none'><\/span><span class='default-msg-value' style='display:none'>&lt;p&gt;How can I help you? :)&lt;\/p&gt;<\/span><span class='default-msg-phone' style='display:none'>447588504922<\/span><div class='chaty-whatsapp-body'><div role='button' class='close-chaty-popup is-whatsapp-btn'><div class='chaty-close-button'><\/div><\/div><div class='chaty-whatsapp-message'><\/div><\/div><div class='chaty-whatsapp-footer'><form class='whatsapp-chaty-form' autocomplete='off' target='_blank' action='https:\/\/web.whatsapp.com\/send' method='get'><div class='chaty-whatsapp-field'><input autocomplete='off' class='chaty-whatsapp-msg' name='text' value='' \/><\/div><input type='hidden' name='phone' class='chaty-whatsapp-phone' value='' \/><input type='hidden' class='is-default-open' value='0' \/><input type='hidden' class='channel-id' value='cht-channel-0' \/><button type='submit' class='chaty-whatsapp-submit-btn'><svg xmlns='http:\/\/www.w3.org\/2000\/svg' viewBox='0 0 24 24' width='24' height='24'><path fill='#ffffff' d='M1.101 21.757L23.8 12.028 1.101 2.3l.011 7.912 13.623 1.816-13.623 1.817-.011 7.912z'><\/path><\/svg><\/button><div style='clear:both'><\/div><\/form><\/div><\/div>","has_custom_popup":1,"is_default_open":0}],"pos_side":"right","bot":"25","side":"25","device":"desktop_active mobile_active","color":"#A886CD","rgb_color":"168,134,205","widget_size":"54","widget_type":"chat-base","widget_img":"","cta":"Free Consultation","active":"true","close_text":"Hide","analytics":0,"save_user_clicks":0,"close_img":"","is_mobile":0,"ajax_url":"https:\/\/leads.kliktrace.com\/wp-admin\/admin-ajax.php","animation_class":"waggle","time_trigger":"yes","trigger_time":"0","exit_intent":"no","on_page_scroll":"no","page_scroll":"0","gmt":"","display_conditions":0,"display_rules":[],"display_state":"click","has_close_button":"yes","mode":"vertical"},"ajax_url":"https:\/\/leads.kliktrace.com\/wp-admin\/admin-ajax.php"};
+</script>
+<script src="../js/cht-front-script.js" id="chaty-front-end-js"></script>
+<!--[if IE]>
+<script src='https://leads.kliktrace.com/wp-content/themes/astra/assets/js/minified/flexibility.min.js?ver=3.7.9' id='astra-flexibility-js'></script>
+<script id='astra-flexibility-js-after'>
+flexibility(document.documentElement);
+</script>
+<![endif]-->
+<script id="cookie-law-info-js-extra">
+var Cli_Data = {"nn_cookie_ids":[],"cookielist":[],"non_necessary_cookies":[],"ccpaEnabled":"","ccpaRegionBased":"","ccpaBarEnabled":"","strictlyEnabled":["necessary","obligatoire"],"ccpaType":"gdpr","js_blocking":"1","custom_integration":"","triggerDomRefresh":"","secure_cookies":""};
+var cli_cookiebar_settings = {"animate_speed_hide":"500","animate_speed_show":"500","background":"#FFF","border":"#b1a6a6c2","border_on":"","button_1_button_colour":"#61a229","button_1_button_hover":"#4e8221","button_1_link_colour":"#fff","button_1_as_button":"1","button_1_new_win":"","button_2_button_colour":"#333","button_2_button_hover":"#292929","button_2_link_colour":"#444","button_2_as_button":"","button_2_hidebar":"","button_3_button_colour":"#3566bb","button_3_button_hover":"#2a5296","button_3_link_colour":"#fff","button_3_as_button":"1","button_3_new_win":"","button_4_button_colour":"#000","button_4_button_hover":"#000000","button_4_link_colour":"#333333","button_4_as_button":"","button_7_button_colour":"#61a229","button_7_button_hover":"#4e8221","button_7_link_colour":"#fff","button_7_as_button":"1","button_7_new_win":"","font_family":"inherit","header_fix":"","notify_animate_hide":"1","notify_animate_show":"","notify_div_id":"#cookie-law-info-bar","notify_position_horizontal":"right","notify_position_vertical":"bottom","scroll_close":"","scroll_close_reload":"","accept_close_reload":"","reject_close_reload":"","showagain_tab":"","showagain_background":"#fff","showagain_border":"#000","showagain_div_id":"#cookie-law-info-again","showagain_x_position":"100px","text":"#333333","show_once_yn":"","show_once":"10000","logging_on":"","as_popup":"","popup_overlay":"1","bar_heading_text":"","cookie_bar_as":"banner","popup_showagain_position":"bottom-right","widget_position":"left"};
+var log_object = {"ajax_url":"https:\/\/leads.kliktrace.com\/wp-admin\/admin-ajax.php"};
+</script>
+<script src="../js/cookie-law-info-public.js" id="cookie-law-info-js"></script>
+<link rel="https://api.w.org/" href="https://leads.kliktrace.com/wp-json/"><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://leads.kliktrace.com/xmlrpc.php?rsd">
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://leads.kliktrace.com/wp-includes/wlwmanifest.xml"> 
+<meta name="generator" content="WordPress 5.8.6">
+<style>.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style>	<meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover"></head>
+<body class="error404 ast-desktop ast-page-builder-template ast-no-sidebar astra-3.7.9 ast-header-custom-item-inside ast-inherit-site-logo-transparent elementor-page-1091 elementor-default elementor-template-canvas elementor-kit-189 astra-addon-2.6.1">
+			<section data-elementor-type="single" data-elementor-id="1091" class="elementor elementor-1091 elementor-location-single" data-elementor-settings="[]">
+					<div class="elementor-section-wrap">
+								<section class="elementor-section elementor-top-section elementor-element elementor-element-74f65b3c elementor-section-full_width elementor-section-height-min-height elementor-section-items-stretch elementor-section-content-top elementor-section-height-default" data-id="74f65b3c" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-6aaf6a0" data-id="6aaf6a0" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<section class="elementor-section elementor-inner-section elementor-element elementor-element-4f8248d elementor-section-height-min-height elementor-section-content-bottom elementor-section-boxed elementor-section-height-default" data-id="4f8248d" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-53fead04" data-id="53fead04" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-2be9f21a elementor-widget elementor-widget-heading" data-id="2be9f21a" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">4</h2>		</div>
+				</div>
+						</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-31aaf5f1" data-id="31aaf5f1" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-23b169ca elementor-widget elementor-widget-heading" data-id="23b169ca" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">0</h2>		</div>
+				</div>
+						</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-5944aa8b" data-id="5944aa8b" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-59f85823 elementor-widget elementor-widget-heading" data-id="59f85823" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">4</h2>		</div>
+				</div>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-inner-section elementor-element elementor-element-7ea0651 elementor-section-height-min-height elementor-section-boxed elementor-section-height-default" data-id="7ea0651" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-1508fa97" data-id="1508fa97" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;slideshow&quot;,&quot;background_slideshow_gallery&quot;:[{&quot;id&quot;:&quot;1097&quot;,&quot;url&quot;:&quot;https:\/\/leads.kliktrace.com\/wp-content\/uploads\/2020\/10\/c4.png&quot;},{&quot;id&quot;:&quot;1098&quot;,&quot;url&quot;:&quot;https:\/\/leads.kliktrace.com\/wp-content\/uploads\/2020\/10\/c5.png&quot;},{&quot;id&quot;:&quot;1099&quot;,&quot;url&quot;:&quot;https:\/\/leads.kliktrace.com\/wp-content\/uploads\/2020\/10\/c3.png&quot;}],&quot;background_slideshow_slide_duration&quot;:0,&quot;background_slideshow_slide_transition&quot;:&quot;slide_left&quot;,&quot;background_slideshow_transition_duration&quot;:2000,&quot;background_slideshow_loop&quot;:&quot;yes&quot;}">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-4979c786 elementor-widget elementor-widget-spacer" data-id="4979c786" data-element_type="widget" data-widget_type="spacer.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-spacer">
+			<div class="elementor-spacer-inner"></div>
+		</div>
+				</div>
+				</div>
+						</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-6f42ad72" data-id="6f42ad72" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;slideshow&quot;,&quot;background_slideshow_gallery&quot;:[{&quot;id&quot;:&quot;1097&quot;,&quot;url&quot;:&quot;https:\/\/leads.kliktrace.com\/wp-content\/uploads\/2020\/10\/c4.png&quot;},{&quot;id&quot;:&quot;1100&quot;,&quot;url&quot;:&quot;https:\/\/leads.kliktrace.com\/wp-content\/uploads\/2020\/10\/c1.png&quot;},{&quot;id&quot;:&quot;1098&quot;,&quot;url&quot;:&quot;https:\/\/leads.kliktrace.com\/wp-content\/uploads\/2020\/10\/c5.png&quot;}],&quot;background_slideshow_slide_duration&quot;:0,&quot;background_slideshow_slide_transition&quot;:&quot;slide_left&quot;,&quot;background_slideshow_transition_duration&quot;:2000,&quot;background_slideshow_loop&quot;:&quot;yes&quot;}">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-59cd9f43 elementor-widget elementor-widget-spacer" data-id="59cd9f43" data-element_type="widget" data-widget_type="spacer.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-spacer">
+			<div class="elementor-spacer-inner"></div>
+		</div>
+				</div>
+				</div>
+						</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-63c2cc25" data-id="63c2cc25" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;slideshow&quot;,&quot;background_slideshow_gallery&quot;:[{&quot;id&quot;:&quot;1101&quot;,&quot;url&quot;:&quot;https:\/\/leads.kliktrace.com\/wp-content\/uploads\/2020\/10\/c2.png&quot;},{&quot;id&quot;:&quot;1097&quot;,&quot;url&quot;:&quot;https:\/\/leads.kliktrace.com\/wp-content\/uploads\/2020\/10\/c4.png&quot;},{&quot;id&quot;:&quot;1098&quot;,&quot;url&quot;:&quot;https:\/\/leads.kliktrace.com\/wp-content\/uploads\/2020\/10\/c5.png&quot;}],&quot;background_slideshow_slide_duration&quot;:0,&quot;background_slideshow_slide_transition&quot;:&quot;slide_left&quot;,&quot;background_slideshow_transition_duration&quot;:2000,&quot;background_slideshow_loop&quot;:&quot;yes&quot;}">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-26518411 elementor-widget elementor-widget-spacer" data-id="26518411" data-element_type="widget" data-widget_type="spacer.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-spacer">
+			<div class="elementor-spacer-inner"></div>
+		</div>
+				</div>
+				</div>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-inner-section elementor-element elementor-element-63a23f6c elementor-section-height-min-height elementor-section-boxed elementor-section-height-default" data-id="63a23f6c" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-1ab2d6ac" data-id="1ab2d6ac" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;slideshow&quot;,&quot;background_slideshow_gallery&quot;:[{&quot;id&quot;:&quot;1102&quot;,&quot;url&quot;:&quot;https:\/\/leads.kliktrace.com\/wp-content\/uploads\/2020\/10\/w1.png&quot;},{&quot;id&quot;:&quot;1098&quot;,&quot;url&quot;:&quot;https:\/\/leads.kliktrace.com\/wp-content\/uploads\/2020\/10\/c5.png&quot;},{&quot;id&quot;:&quot;1097&quot;,&quot;url&quot;:&quot;https:\/\/leads.kliktrace.com\/wp-content\/uploads\/2020\/10\/c4.png&quot;}],&quot;background_slideshow_slide_duration&quot;:0,&quot;background_slideshow_slide_transition&quot;:&quot;slide_right&quot;,&quot;background_slideshow_transition_duration&quot;:1500,&quot;background_slideshow_loop&quot;:&quot;yes&quot;}">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-20433f2f elementor-widget elementor-widget-spacer" data-id="20433f2f" data-element_type="widget" data-widget_type="spacer.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-spacer">
+			<div class="elementor-spacer-inner"></div>
+		</div>
+				</div>
+				</div>
+						</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-560c0a7b" data-id="560c0a7b" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;slideshow&quot;,&quot;background_slideshow_gallery&quot;:[{&quot;id&quot;:&quot;1098&quot;,&quot;url&quot;:&quot;https:\/\/leads.kliktrace.com\/wp-content\/uploads\/2020\/10\/c5.png&quot;},{&quot;id&quot;:&quot;1103&quot;,&quot;url&quot;:&quot;https:\/\/leads.kliktrace.com\/wp-content\/uploads\/2020\/10\/w2.png&quot;},{&quot;id&quot;:&quot;1097&quot;,&quot;url&quot;:&quot;https:\/\/leads.kliktrace.com\/wp-content\/uploads\/2020\/10\/c4.png&quot;}],&quot;background_slideshow_slide_duration&quot;:0,&quot;background_slideshow_slide_transition&quot;:&quot;slide_right&quot;,&quot;background_slideshow_transition_duration&quot;:1500,&quot;background_slideshow_loop&quot;:&quot;yes&quot;}">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-4e12b5f1 elementor-widget elementor-widget-spacer" data-id="4e12b5f1" data-element_type="widget" data-widget_type="spacer.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-spacer">
+			<div class="elementor-spacer-inner"></div>
+		</div>
+				</div>
+				</div>
+						</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-52e001c4" data-id="52e001c4" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;slideshow&quot;,&quot;background_slideshow_gallery&quot;:[{&quot;id&quot;:&quot;1097&quot;,&quot;url&quot;:&quot;https:\/\/leads.kliktrace.com\/wp-content\/uploads\/2020\/10\/c4.png&quot;},{&quot;id&quot;:&quot;1098&quot;,&quot;url&quot;:&quot;https:\/\/leads.kliktrace.com\/wp-content\/uploads\/2020\/10\/c5.png&quot;},{&quot;id&quot;:&quot;1104&quot;,&quot;url&quot;:&quot;https:\/\/leads.kliktrace.com\/wp-content\/uploads\/2020\/10\/w3.png&quot;}],&quot;background_slideshow_slide_duration&quot;:0,&quot;background_slideshow_slide_transition&quot;:&quot;slide_right&quot;,&quot;background_slideshow_transition_duration&quot;:1500,&quot;background_slideshow_loop&quot;:&quot;yes&quot;}">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-5304a411 elementor-widget elementor-widget-spacer" data-id="5304a411" data-element_type="widget" data-widget_type="spacer.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-spacer">
+			<div class="elementor-spacer-inner"></div>
+		</div>
+				</div>
+				</div>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-inner-section elementor-element elementor-element-44a17bcf elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="44a17bcf" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-100 elementor-inner-column elementor-element elementor-element-67b27d1" data-id="67b27d1" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-2c34b7c3 elementor-widget__width-auto elementor-widget elementor-widget-heading" data-id="2c34b7c3" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Oops! Looks Like You Lost Your Way.</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-163c4db3 elementor-widget__width-auto elementor-widget elementor-widget-heading" data-id="163c4db3" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default"><a href="https://leads.kliktrace.com">go to home page</a></h2>		</div>
+				</div>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+							</div>
+				</section>
+		<!--googleoff: all--><div id="cookie-law-info-bar" data-nosnippet="true"><span><div class="cli-bar-container cli-style-v2"><div class="cli-bar-message">This site uses cookies. By continuing to browse the site, you are agreeing to our use of cookies.</div><div class="cli-bar-btn_container"><a role="button" class="cli_settings_button" style="margin:0px 10px 0px 5px">Cookie settings</a><a role="button" data-cli_action="accept" id="cookie_action_close_header" class="medium cli-plugin-button cli-plugin-main-button cookie_action_close_header cli_action_button">ACCEPT</a></div></div></span></div><div id="cookie-law-info-again" data-nosnippet="true"><span id="cookie_hdr_showagain">Privacy &amp; Cookies Policy</span></div><div class="cli-modal" data-nosnippet="true" id="cliSettingsPopup" tabindex="-1" role="dialog" aria-labelledby="cliSettingsPopup" aria-hidden="true">
+  <div class="cli-modal-dialog" role="document">
+	<div class="cli-modal-content cli-bar-popup">
+		  <button type="button" class="cli-modal-close" id="cliModalClose">
+			<svg class="" viewBox="0 0 24 24"><path d="M19 6.41l-1.41-1.41-5.59 5.59-5.59-5.59-1.41 1.41 5.59 5.59-5.59 5.59 1.41 1.41 5.59-5.59 5.59 5.59 1.41-1.41-5.59-5.59z"/><path d="M0 0h24v24h-24z" fill="none"/></svg>
+			<span class="wt-cli-sr-only">Close</span>
+		  </button>
+		  <div class="cli-modal-body">
+			<div class="cli-container-fluid cli-tab-container">
+	<div class="cli-row">
+		<div class="cli-col-12 cli-align-items-stretch cli-px-0">
+			<div class="cli-privacy-overview">
+				<h4>Privacy Overview</h4>				<div class="cli-privacy-content">
+					<div class="cli-privacy-content-text">This website uses cookies to improve your experience while you navigate through the website. Out of these cookies, the cookies that are categorized as necessary are stored on your browser as they are essential for the working of basic functionalities of the website. We also use third-party cookies that help us analyze and understand how you use this website. These cookies will be stored in your browser only with your consent. You also have the option to opt-out of these cookies. But opting out of some of these cookies may have an effect on your browsing experience.</div>
+				</div>
+				<a class="cli-privacy-readmore" aria-label="Show more" role="button" data-readmore-text="Show more" data-readless-text="Show less"></a>			</div>
+		</div>
+		<div class="cli-col-12 cli-align-items-stretch cli-px-0 cli-tab-section-container">
+												<div class="cli-tab-section">
+						<div class="cli-tab-header">
+							<a role="button" tabindex="0" class="cli-nav-link cli-settings-mobile" data-target="necessary" data-toggle="cli-toggle-tab">
+								Necessary							</a>
+															<div class="wt-cli-necessary-checkbox">
+									<input type="checkbox" class="cli-user-preference-checkbox" id="wt-cli-checkbox-necessary" data-id="checkbox-necessary" checked="checked">
+									<label class="form-check-label" for="wt-cli-checkbox-necessary">Necessary</label>
+								</div>
+								<span class="cli-necessary-caption">Always Enabled</span>
+													</div>
+						<div class="cli-tab-content">
+							<div class="cli-tab-pane cli-fade" data-id="necessary">
+								<div class="wt-cli-cookie-description">
+									Necessary cookies are absolutely essential for the website to function properly. This category only includes cookies that ensures basic functionalities and security features of the website. These cookies do not store any personal information.								</div>
+							</div>
+						</div>
+					</div>
+																	<div class="cli-tab-section">
+						<div class="cli-tab-header">
+							<a role="button" tabindex="0" class="cli-nav-link cli-settings-mobile" data-target="non-necessary" data-toggle="cli-toggle-tab">
+								Non-necessary							</a>
+															<div class="cli-switch">
+									<input type="checkbox" id="wt-cli-checkbox-non-necessary" class="cli-user-preference-checkbox" data-id="checkbox-non-necessary" checked="checked">
+									<label for="wt-cli-checkbox-non-necessary" class="cli-slider" data-cli-enable="Enabled" data-cli-disable="Disabled"><span class="wt-cli-sr-only">Non-necessary</span></label>
+								</div>
+													</div>
+						<div class="cli-tab-content">
+							<div class="cli-tab-pane cli-fade" data-id="non-necessary">
+								<div class="wt-cli-cookie-description">
+									Any cookies that may not be particularly necessary for the website to function and is used specifically to collect user personal data via analytics, ads, other embedded contents are termed as non-necessary cookies. It is mandatory to procure user consent prior to running these cookies on your website.								</div>
+							</div>
+						</div>
+					</div>
+										</div>
+	</div>
+</div>
+		  </div>
+		  <div class="cli-modal-footer">
+			<div class="wt-cli-element cli-container-fluid cli-tab-container">
+				<div class="cli-row">
+					<div class="cli-col-12 cli-align-items-stretch cli-px-0">
+						<div class="cli-tab-footer wt-cli-privacy-overview-actions">
+						
+															<a id="wt-cli-privacy-save-btn" role="button" tabindex="0" data-cli-action="accept" class="wt-cli-privacy-btn cli_setting_save_button wt-cli-privacy-accept-btn cli-btn">SAVE &amp; ACCEPT</a>
+													</div>
+						
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+  </div>
+</div>
+<div class="cli-modal-backdrop cli-fade cli-settings-overlay"></div>
+<div class="cli-modal-backdrop cli-fade cli-popupbar-overlay"></div>
+<!--googleon: all--><link rel="stylesheet" id="e-animations-css" href="../css/animations.min.css" media="all">
+<script id="astra-theme-js-js-extra">
+var astra = {"break_point":"921","isRtl":""};
+</script>
+<script src="../js/style.min.js" id="astra-theme-js-js"></script>
+<script id="astra-addon-js-js-extra">
+var astraAddon = {"sticky_active":""};
+</script>
+<script src="../js/astra-addon-600ff619a04395-93838969.js" id="astra-addon-js-js"></script>
+<script src="../js/wp-embed.min.js" id="wp-embed-js"></script>
+<script src="../js/webpack-pro.runtime.min.js" id="elementor-pro-webpack-runtime-js"></script>
+<script src="../js/webpack.runtime.min.js" id="elementor-webpack-runtime-js"></script>
+<script src="../js/frontend-modules.min.js" id="elementor-frontend-modules-js"></script>
+<script src="../js/regenerator-runtime.min.js" id="regenerator-runtime-js"></script>
+<script src="../js/wp-polyfill.min.js" id="wp-polyfill-js"></script>
+<script src="../js/hooks.min.js" id="wp-hooks-js"></script>
+<script src="../js/i18n.min.js" id="wp-i18n-js"></script>
+<script id="wp-i18n-js-after">
+wp.i18n.setLocaleData( { 'text direction\u0004ltr': [ 'ltr' ] } );
+</script>
+<script id="elementor-pro-frontend-js-translations">
+( function( domain, translations ) {
+	var localeData = translations.locale_data[ domain ] || translations.locale_data.messages;
+	localeData[""].domain = domain;
+	wp.i18n.setLocaleData( localeData, domain );
+} )( "elementor-pro", { "locale_data": { "messages": { "": {} } } } );
+</script>
+<script id="elementor-pro-frontend-js-before">
+var ElementorProFrontendConfig = {"ajaxurl":"https:\/\/leads.kliktrace.com\/wp-admin\/admin-ajax.php","nonce":"23d873888f","urls":{"assets":"https:\/\/leads.kliktrace.com\/wp-content\/plugins\/elementor-pro\/assets\/","rest":"https:\/\/leads.kliktrace.com\/wp-json\/"},"shareButtonsNetworks":{"facebook":{"title":"Facebook","has_counter":true},"twitter":{"title":"Twitter"},"linkedin":{"title":"LinkedIn","has_counter":true},"pinterest":{"title":"Pinterest","has_counter":true},"reddit":{"title":"Reddit","has_counter":true},"vk":{"title":"VK","has_counter":true},"odnoklassniki":{"title":"OK","has_counter":true},"tumblr":{"title":"Tumblr"},"digg":{"title":"Digg"},"skype":{"title":"Skype"},"stumbleupon":{"title":"StumbleUpon","has_counter":true},"mix":{"title":"Mix"},"telegram":{"title":"Telegram"},"pocket":{"title":"Pocket","has_counter":true},"xing":{"title":"XING","has_counter":true},"whatsapp":{"title":"WhatsApp"},"email":{"title":"Email"},"print":{"title":"Print"}},"facebook_sdk":{"lang":"en_US","app_id":""},"lottie":{"defaultAnimationUrl":"https:\/\/leads.kliktrace.com\/wp-content\/plugins\/elementor-pro\/modules\/lottie\/assets\/animations\/default.json"}};
+</script>
+<script src="../js/frontend.min.js" id="elementor-pro-frontend-js"></script>
+<script src="../js/waypoints.min.js" id="elementor-waypoints-js"></script>
+<script src="../js/core.min.js" id="jquery-ui-core-js"></script>
+<script src="../js/swiper.min.js" id="swiper-js"></script>
+<script src="../js/share-link.min.js" id="share-link-js"></script>
+<script src="../js/dialog.min.js" id="elementor-dialog-js"></script>
+<script id="elementor-frontend-js-before">
+var elementorFrontendConfig = {"environmentMode":{"edit":false,"wpPreview":false,"isScriptDebug":false},"i18n":{"shareOnFacebook":"Share on Facebook","shareOnTwitter":"Share on Twitter","pinIt":"Pin it","download":"Download","downloadImage":"Download image","fullscreen":"Fullscreen","zoom":"Zoom","share":"Share","playVideo":"Play Video","previous":"Previous","next":"Next","close":"Close"},"is_rtl":false,"breakpoints":{"xs":0,"sm":480,"md":768,"lg":1025,"xl":1440,"xxl":1600},"responsive":{"breakpoints":{"mobile":{"label":"Mobile","value":767,"default_value":767,"direction":"max","is_enabled":true},"mobile_extra":{"label":"Mobile Extra","value":880,"default_value":880,"direction":"max","is_enabled":false},"tablet":{"label":"Tablet","value":1024,"default_value":1024,"direction":"max","is_enabled":true},"tablet_extra":{"label":"Tablet Extra","value":1200,"default_value":1200,"direction":"max","is_enabled":false},"laptop":{"label":"Laptop","value":1366,"default_value":1366,"direction":"max","is_enabled":false},"widescreen":{"label":"Widescreen","value":2400,"default_value":2400,"direction":"min","is_enabled":false}}},"version":"3.5.5","is_static":false,"experimentalFeatures":{"e_import_export":true,"e_hidden_wordpress_widgets":true,"theme_builder_v2":true,"landing-pages":true,"elements-color-picker":true,"favorite-widgets":true,"admin-top-bar":true,"page-transitions":true,"form-submissions":true,"e_scroll_snap":true},"urls":{"assets":"https:\/\/leads.kliktrace.com\/wp-content\/plugins\/elementor\/assets\/"},"settings":{"editorPreferences":[]},"kit":{"active_breakpoints":["viewport_mobile","viewport_tablet"],"global_image_lightbox":"yes","lightbox_enable_counter":"yes","lightbox_enable_fullscreen":"yes","lightbox_enable_zoom":"yes","lightbox_enable_share":"yes","lightbox_title_src":"title","lightbox_description_src":"description"},"post":{"id":0,"title":"Page not found &#8211; KlikTrace Network","excerpt":""}};
+</script>
+<script src="../js/frontend.min_1.js" id="elementor-frontend-js"></script>
+<script src="../js/preloaded-elements-handlers.min.js" id="pro-preloaded-elements-handlers-js"></script>
+<script src="../js/preloaded-modules.min.js" id="preloaded-modules-js"></script>
+<script src="../js/jquery.sticky.min.js" id="e-sticky-js"></script>
+			<script>
+			/(trident|msie)/i.test(navigator.userAgent)&&document.getElementById&&window.addEventListener&&window.addEventListener("hashchange",function(){var t,e=location.hash.substring(1);/^[A-z0-9_-]+$/.test(e)&&(t=document.getElementById(e))&&(/^(?:a|select|input|button|textarea)$/i.test(t.tagName)||(t.tabIndex=-1),t.focus())},!1);
+			</script>
+				</body>
+</html>
